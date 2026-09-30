@@ -113,7 +113,3 @@ bias_variance.py          # Bias-variance tradeoff curve (max_depth sweep)
 significance.py           # Paired t-test
 notes.md                  # Full working notes, including debugging process
 ```
-
-## What This Project Is (and Isn't)
-
-This is not an attempt to build the most accurate house price predictor. It's a methodology case study: an exercise in treating "how do I know this result is trustworthy" as seriously as "what's my accuracy number" — including reporting inconvenient findings (a real bug that initially produced misleading results; a model that overfits more but still wins) honestly rather than smoothing them over.
